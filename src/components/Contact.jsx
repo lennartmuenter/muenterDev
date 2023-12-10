@@ -11,7 +11,7 @@ function Contact() {
                 <div class="flex flex-col sm:flex-row px-8 rounded-2xl gap-8">
                     <div class="flex flex-col sm:items-start sm:w-1/2">
                         <p class="mb-8 text-fullbright text-xl md:text-3xl font-extrabold" id="contact">start a project</p>
-                        <p class="text-lightness text-sm xl:text-lg">Got a brilliant idea or a burning question? Reach out to me via email or my social media channels. Let's turn your vision into reality.</p>
+                        <p class="text-lightness text-sm xl:text-lg">got a brilliant idea or a burning question? reach out to me via email or my social media channels. let's turn your vision into reality.</p>
                     </div>
 
                     <div class="flex flex-col sm:items-end justify-end sm:w-1/2">

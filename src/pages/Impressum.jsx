@@ -4,7 +4,7 @@ function Impressum() {
     return (
         <div>
             <Header />
-            <div class="h-screen text-white flex flex-col justify-center text-center">
+            <div class="h-screen text-white flex flex-col justify-center text-center p-8">
                 <h1 class="text-3xl pb-4">Impressum</h1>
                 <h2 class="text-2xl pb-4">Diensteanbieter</h2>
                 <div class="pb-8">

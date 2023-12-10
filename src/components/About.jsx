@@ -4,7 +4,7 @@ function About() {
             <div class="flex flex-col justify-center h-full py-16">
                 <div class="mx-4 sm:w-3/4 md:w-1/2 xl:w-1/3 self-center">
                     <p class="text-fullbright text-md lg:text-xl xl:text-2xl text-center pb-8">
-                        If debugging is the process of removing software bugs, then programming must be the process of putting them in
+                        if debugging is the process of removing software bugs, then programming must be the process of putting them in
                     </p>
                     <p class="text-lightness text-md lg:text-xl xl:text-2xl text-center pb-16">
                         - Edsger Dijkstra
