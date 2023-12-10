@@ -6,7 +6,7 @@ export default {
   theme: {
     extend: {
       colors: {
-        "prime" : "#9f1239",
+        "prime" : "rgba(157, 1, 45, 1)",
         "darkness" : "#0a0a0a",
         "lightness" : "#d4d4d4",
         "fullbright" : "#fff",

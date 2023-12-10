@@ -18,15 +18,15 @@ body,
     font-family: 'Source Code Pro', monospace;
   }
   .angledBg {
-    background-image: linear-gradient(176deg, transparent 60%, #9f1239 calc(60% + 2px))
+    background-image: linear-gradient(176deg, transparent 60%, rgba(157, 1, 45, 1) calc(60% + 2px))
   }
   .angledBgSm {
-    background-image: linear-gradient(176deg, transparent 70%, #9f1239 calc(70% + 2px))
+    background-image: linear-gradient(176deg, transparent 70%, rgba(157, 1, 45, 1) calc(70% + 2px))
   }
   .angledBgRv {
-    background-image: linear-gradient(176deg, #9f1239 60%, transparent calc(60% + 2px))
+    background-image: linear-gradient(176deg, rgba(157, 1, 45, 1) 60%, transparent calc(60% + 2px))
   }
   .angledBgSmRv {
-    background-image: linear-gradient(176deg, #9f1239 75%, transparent calc(75% + 2px))
+    background-image: linear-gradient(176deg, rgba(157, 1, 45, 1) 75%, transparent calc(75% + 2px))
   } 
 }
